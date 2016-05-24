@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_3d0b0602f9e463275202f8325174bc602bd6af08/classes.dex" />
+    </item>
+    <item
+        jar="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_c5433a9be738f55a8c36457cc4ca6e5eb13fe558/classes.dex" />
+    </item>
+    <item
+        jar="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e3654ebdc8113d923c01d80eb55608b2706ca4d9/classes.dex" />
+    </item>
+    <item
+        jar="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_da5ba36de937822bfcff1b6ad5b9bf4a32833ac2/classes.dex" />
+    </item>
+    <item
+        jar="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f0495ca721381fb1a4e52f05f601eb023394cc07/classes.dex" />
+    </item>
+    <item
+        jar="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5cc31f1f4590e04d15ffdbf27ea909b2ccff9609">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2d2026de4f9e1112db99311eb66f725a14b2f622/classes.dex" />
+    </item>
+    <item
+        jar="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0a1a6a58f1c209643eba950b5abcff785333393c">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_81a1727a7a4ea0828263d27bfbf9bdbd162368eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/ppridham/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/ppridham/AndroidStudioProjects/FinalSurfaceviewVII/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_479c6fc11588228267ec7817b29f4193d6bab806/classes.dex" />
+    </item>
+
+</items>
